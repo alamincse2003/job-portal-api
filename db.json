@@ -1,0 +1,179 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions Ltd",
+      "location": "Dhaka",
+      "type": "Full-time",
+      "salary": "40,000-60,000 BDT",
+      "category": "Frontend",
+      "isRemote": true,
+      "postedAt": "2025-07-30",
+      "description": "We are looking for a skilled frontend developer with React experience."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "CodeWorks",
+      "location": "Chittagong",
+      "type": "Remote",
+      "salary": "50,000-70,000 BDT",
+      "category": "Backend",
+      "isRemote": true,
+      "postedAt": "2025-07-28",
+      "description": "We need a backend developer with Node.js and Express skills."
+    },
+    {
+      "id": "3",
+      "title": "React Developer",
+      "company": "ZYX Solutions",
+      "location": "Rangpur",
+      "type": "Full-time",
+      "salary": "45,000-65,000 BDT",
+      "category": "Frontend",
+      "isRemote": false,
+      "postedAt": "2025-07-25",
+      "description": "React dev with hooks and state management experience."
+    },
+    {
+      "id": "4",
+      "title": "Fullstack Developer",
+      "company": "BrainStation",
+      "location": "Dhaka",
+      "type": "Contract",
+      "salary": "60,000-80,000 BDT",
+      "category": "Fullstack",
+      "isRemote": true,
+      "postedAt": "2025-07-20",
+      "description": "Fullstack dev with React + Node experience."
+    },
+    {
+      "id": "5",
+      "title": "Website Developer",
+      "company": "XYZ Tech",
+      "location": "Dhaka",
+      "type": "Contract",
+      "salary": "60,000-80,000 BDT",
+      "category": "Fullstack",
+      "isRemote": true,
+      "postedAt": "2025-07-20",
+      "description": "Fullstack dev with React + Node experience."
+    },
+    {
+      "id": "6",
+      "title": "Fullstack Developer",
+      "company": "YXZ Tech",
+      "location": "Dhaka",
+      "type": "Contract",
+      "salary": "60,000-80,000 BDT",
+      "category": "Fullstack",
+      "isRemote": false,
+      "postedAt": "2025-07-20",
+      "description": "Fullstack dev with React + Node experience."
+    }
+  ],
+  "bookmarks": [],
+  "applications": [
+    {
+      "id": "741b",
+      "jobId": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions Ltd",
+      "location": "Dhaka",
+      "appliedAt": "2025-08-21T01:48:03.409Z",
+      "name": "Leah Barlow",
+      "email": "lopaxi@mailinator.com",
+      "resume": "https://www.wiholo.ca",
+      "coverLetter": "Quae dolorum maiores"
+    },
+    {
+      "id": "6754",
+      "jobId": "2",
+      "title": "Backend Developer",
+      "company": "CodeWorks",
+      "location": "Chittagong",
+      "appliedAt": "2025-08-21T01:50:44.203Z",
+      "name": "Emily Blankenship",
+      "email": "ruwur@mailinator.com",
+      "resume": "https://www.timyqikywovo.mobi",
+      "coverLetter": "Irure sit iure animi"
+    },
+    {
+      "id": "e26f",
+      "userId": "TLMyfu3pq7SvHGAck5MC08k4vAw2",
+      "jobId": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions Ltd",
+      "location": "Dhaka",
+      "appliedAt": "2025-08-23T16:30:35.759Z",
+      "name": "Nehru Mays",
+      "email": "hasehuviw@mailinator.com",
+      "resume": "https://www.satesuwaqik.org.uk",
+      "coverLetter": "Dolorem minima est q"
+    },
+    {
+      "id": "bec3",
+      "userId": "lCGggyYZwPVsfov4yx7BQ7LdIu02",
+      "jobId": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions Ltd",
+      "location": "Dhaka",
+      "appliedAt": "2025-08-23T16:44:45.189Z",
+      "name": "Madonna Mckee",
+      "email": "fyme@mailinator.com",
+      "resume": "https://www.xelykegosotyvy.me",
+      "coverLetter": "Officiis pariatur O"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Remote Jobs",
+      "desc": "Work from anywhere, flexible timing.",
+      "icon": "home"
+    },
+    {
+      "id": "2",
+      "title": "Onsite Jobs",
+      "desc": "Join teams directly in the office.",
+      "icon": "briefcase"
+    },
+    {
+      "id": "3",
+      "title": "Full-time",
+      "desc": "Stable jobs with long-term growth.",
+      "icon": "clock"
+    },
+    {
+      "id": "4",
+      "title": "Internship",
+      "desc": "Gain experience and start your career.",
+      "icon": "graduationCap"
+    }
+  ],
+  "users": [],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "position": "Frontend Developer",
+      "review": "This platform helped me land my dream job within a week!",
+      "image": "https://i.pravatar.cc/150?img=59"
+    },
+    {
+      "id": "2",
+      "name": "Sarah Smith",
+      "position": "UI/UX Designer",
+      "review": "Very smooth process and a wide range of job opportunities.",
+      "image": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": "3",
+      "name": "Michael Lee",
+      "position": "Full Stack Engineer",
+      "review": "Highly recommended for freshers and experienced professionals alike.",
+      "image": "https://i.pravatar.cc/150?img=7"
+    }
+  ]
+}
