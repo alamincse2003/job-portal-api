@@ -73,59 +73,7 @@
       "description": "Fullstack dev with React + Node experience."
     }
   ],
-  "bookmarks": [],
-  "applications": [
-    {
-      "id": "741b",
-      "jobId": "1",
-      "title": "Frontend Developer",
-      "company": "Tech Solutions Ltd",
-      "location": "Dhaka",
-      "appliedAt": "2025-08-21T01:48:03.409Z",
-      "name": "Leah Barlow",
-      "email": "lopaxi@mailinator.com",
-      "resume": "https://www.wiholo.ca",
-      "coverLetter": "Quae dolorum maiores"
-    },
-    {
-      "id": "6754",
-      "jobId": "2",
-      "title": "Backend Developer",
-      "company": "CodeWorks",
-      "location": "Chittagong",
-      "appliedAt": "2025-08-21T01:50:44.203Z",
-      "name": "Emily Blankenship",
-      "email": "ruwur@mailinator.com",
-      "resume": "https://www.timyqikywovo.mobi",
-      "coverLetter": "Irure sit iure animi"
-    },
-    {
-      "id": "e26f",
-      "userId": "TLMyfu3pq7SvHGAck5MC08k4vAw2",
-      "jobId": "1",
-      "title": "Frontend Developer",
-      "company": "Tech Solutions Ltd",
-      "location": "Dhaka",
-      "appliedAt": "2025-08-23T16:30:35.759Z",
-      "name": "Nehru Mays",
-      "email": "hasehuviw@mailinator.com",
-      "resume": "https://www.satesuwaqik.org.uk",
-      "coverLetter": "Dolorem minima est q"
-    },
-    {
-      "id": "bec3",
-      "userId": "lCGggyYZwPVsfov4yx7BQ7LdIu02",
-      "jobId": "1",
-      "title": "Frontend Developer",
-      "company": "Tech Solutions Ltd",
-      "location": "Dhaka",
-      "appliedAt": "2025-08-23T16:44:45.189Z",
-      "name": "Madonna Mckee",
-      "email": "fyme@mailinator.com",
-      "resume": "https://www.xelykegosotyvy.me",
-      "coverLetter": "Officiis pariatur O"
-    }
-  ],
+  "applications": [],
   "categories": [
     {
       "id": "1",
@@ -152,7 +100,6 @@
       "icon": "graduationCap"
     }
   ],
-  "users": [],
   "testimonials": [
     {
       "id": "1",
